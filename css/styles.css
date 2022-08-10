@@ -258,9 +258,11 @@ nav{
     margin-top: 50px;
     padding: 0 50px;
     height: auto;
-    text-align: center;
 }
 
+.galeria-title{
+    margin: 0 0 0 1.5%;
+}
 
 /*CARD*/
 .producto-card{
