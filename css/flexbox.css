@@ -1,0 +1,92 @@
+nav{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 50px;
+}
+
+.logo-container{
+    display: flex;
+    align-items: center;
+}
+
+.input-buscar form{
+    display: flex;
+}
+
+.login-container{
+    display: flex;
+    align-items: center;
+}
+
+.login-button{
+    display: flex;
+    align-items: center;
+}
+
+/*BANNER SECTION*/
+.banner{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.banner .xbox{
+    flex: 1 1 250px;
+    padding: 15px;
+    text-align: center;
+}
+
+.banner .contenido{
+    flex: 1 1 250px;
+    text-align: center;
+    padding: 10px;
+    text-transform: uppercase;
+}
+
+.banner .play-station{
+    flex: 1 1 250px;
+    padding: 15px;
+    text-align: center;
+}
+
+.star-container{
+    justify-content: space-between;
+    display: flex;
+}
+
+.star-container ul{
+    display: flex;
+    list-style: none;
+    justify-content: center;
+}
+
+.stock{
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    padding: 0 0 10px;
+}
+
+.promocion-envio ul{
+    display: flex;
+    margin: auto;
+    list-style: none;
+    width: 70vh;
+    justify-content: space-between;
+}
+
+.envios-info-section{
+    display: flex;
+}
+
+footer .footer-container{
+    display: flex;
+}
+
+.list-producto-features{
+    display: flex;
+    gap: 2em;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: 5vh 0 10vh 0;
+}
